@@ -1,0 +1,24 @@
+<!--
+  ~ Copyright (c) 2021 Indra Azimi. All rights reserved.
+  ~
+  ~ Dibuat untuk kelas Pemrograman untuk Perangkat Bergerak 2.
+  ~ Dilarang melakukan penggandaan dan atau komersialisasi,
+  ~ sebagian atau seluruh bagian, baik cetak maupun elektronik
+  ~ terhadap project ini tanpa izin pemilik hak cipta.
+  -->
+
+<resources>
+    <string name="app_name">Mahasiswa ID</string>
+    <string name="tambah_mahasiswa">Tambah Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="nim_wajib_diisi">NIM wajib diisi</string>
+    <string name="nim_harus_10chars">NIM harus 10 karakter</string>
+    <string name="nama_wajib_diisi">Nama wajib diisi</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
+    <string name="mahasiswa_klik">%1$s diklik!</string>
+    <string name="hapus">Hapus</string>
+    <string name="pesan_hapus">Hapus mahasiswa terpilih?</string>
+</resources>
